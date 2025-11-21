@@ -1,0 +1,10 @@
+title: "yaksneumann's Blog"
+description: "Personal site and blog powered by Jekyll and GitHub Pages."
+baseurl: ""
+theme: minima
+
+author:
+  name: yaksneumann
+  email: yaksneumann@example.com
+
+show_excerpts: true
