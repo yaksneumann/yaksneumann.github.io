@@ -1,5 +1,5 @@
-title: "yaksneumann's Blog"
-description: "Personal site and blog powered by Jekyll and GitHub Pages."
+title: "yakov neumann - frontend developer"
+description: "Personal site and blog"
 theme: minima
 
-show_excerpts: true
+show_excerpts: false
